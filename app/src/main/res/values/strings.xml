@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Profiling Data Sheet</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="handedness_array">
+        <item>Hand</item>
+        <item>Right</item>
+        <item>Left</item>
+    </string-array>
+    <string-array name="breathing_array">
+        <item>Breathing</item>
+        <item>Chest</item>
+        <item>Abdomen</item>
+    </string-array>
+    <string-array name="ght_hand_array">
+        <item> </item>
+        <item>R</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="ght_association_array">
+        <item>   </item>
+        <item>Pos</item>
+        <item>Neg</item>
+    </string-array>
+    <string-array name="id_select_array">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string name="location_text">Location:</string>
+    <string name="proxemics_text">Proxemics:</string>
+    <string name="date_text">Date:</string>
+    <string name="weather_text">Weather:</string>
+    <string name="temp_text">Temp:</string>
+    <string name="posture_text">Posture:</string>
+    <string name="presence_text">Presence:</string>
+    <string name="shoes_text">Shoes:</string>
+    <string name="colors_text">Colors:</string>
+    <string name="breathrate_text">Breath Rate:</string>
+    <string name="blinkrate_text">Blink Rate:</string>
+    <string name="hygiene_text">Hygiene:</string>
+    <string name="shutterspd_text">Shutter Spd:</string>
+    <string name="description_text">Description:</string>
+    <string name="height_text">H:</string>
+    <string name="weight_text">W:</string>
+    <string name="initges_text">Initial Gestures:</string>
+    <string name="interges_text">Interactive Gestures:</string>
+    <string name="appreciation_text">Appreciation</string>
+    <string name="acceptance_text">Acceptance</string>
+    <string name="approval_text">Approval</string>
+    <string name="intelligence_text">Intelligence</string>
+    <string name="pity_text">Pity</string>
+    <string name="admiration_text">Admiration</string>
+    <string name="power_text">Power</string>
+    <string name="weaknesses_text">Associated Weaknesses:</string>
+    <string name="dislikes_text">Associated Dislikes:</string>
+    <string name="pronouns_text">Pronoun Notes:</string>
+    <string name="adjectives_text">Adjective Notes:</string>
+    <string name="ght_text">Gestural Hemispheric Tendency:</string>
+    <string name="inter2ges_ges">Interactional Gestures:</string>
+    <string name="phrases_text">Phrases subject would respond to:</string>
+    <string name="tolookup_text">To look up later:</string>
+    <string name="sketch_text">Overall Sketch of Subject:</string>
+    <string name="notes_text">Notes:</string>
+</resources>
